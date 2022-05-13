@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0d129b5e.css",
+    "main.js": "/static/js/main.c2c7d425.js",
+    "static/media/notfound.gif": "/static/media/notfound.ca1f4c35202275b41207.gif",
+    "static/media/rsschool.svg": "/static/media/rsschool.ad178c0df28bc133be34.svg",
+    "index.html": "/index.html",
+    "main.0d129b5e.css.map": "/static/css/main.0d129b5e.css.map",
+    "main.c2c7d425.js.map": "/static/js/main.c2c7d425.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d129b5e.css",
+    "static/js/main.c2c7d425.js"
+  ]
+}
